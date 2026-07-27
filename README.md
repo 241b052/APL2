@@ -1,2 +1,4 @@
 # APL2
-This repo cointains ......
+
+This repo cointains lab exercises 
+
